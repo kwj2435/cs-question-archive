@@ -7,6 +7,7 @@
 팩토리 메소드(Template Method) 패턴 
 
 싱글톤(SingleTon) 패턴
+- 싱글톤 패턴의 문제점과 해결방법
 
 어댑터(Adapter) 패턴
 
