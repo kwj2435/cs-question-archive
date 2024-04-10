@@ -24,4 +24,7 @@
 
 브릿지(Bredge) 패턴
 
+퍼사드(Facade) 패턴
+
+컴포지트(Composite) 패턴
 
