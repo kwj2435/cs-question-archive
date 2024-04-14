@@ -11,6 +11,7 @@
 정적 팩토리 메서드 패턴(Static Factory Method) 패턴
 
 싱글톤(SingleTon) 패턴
+- 싱글톤 패턴의 문제점과 해결방법
 
 어댑터(Adapter) 패턴 (https://turtledev.tistory.com/57)
 
