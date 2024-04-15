@@ -15,7 +15,7 @@
 
 어댑터(Adapter) 패턴 (https://turtledev.tistory.com/57)
 
-빌더(Builder) 패턴
+빌더(Builder) 패턴 (https://turtledev.tistory.com/59)
 
 추상 팩토리(Abstract Factory) 패턴
 
