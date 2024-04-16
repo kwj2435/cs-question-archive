@@ -2,28 +2,35 @@
 
 디자인 패턴의 사용 이유 (https://turtledev.tistory.com/56)
 
-전략(Strategy) 패턴 (https://turtledev.tistory.com/56)
+### 생성 패턴
+빌더(Builder) 패턴 (https://turtledev.tistory.com/59)
 
-템플릿 메소드(Template Method) 패턴
+팩토리 메소드(Template Method) 패턴 (https://turtledev.tistory.com/60)
 
-팩토리 메소드(Template Method) 패턴 
+추상 팩토리 메서드(Abstract Factory Method) 패턴
 
 정적 팩토리 메서드 패턴(Static Factory Method) 패턴
 
 싱글톤(SingleTon) 패턴
 - 싱글톤 패턴의 문제점과 해결방법
 
-어댑터(Adapter) 패턴 (https://turtledev.tistory.com/57)
+프로토 타입(ProtoType) 패턴
 
-빌더(Builder) 패턴 (https://turtledev.tistory.com/59)
+### 행동 패턴
+전략(Strategy) 패턴 (https://turtledev.tistory.com/56)
 
-추상 팩토리(Abstract Factory) 패턴
-
-데코레이터(Decorator) 패턴
+템플릿 메소드(Template Method) 패턴
 
 옵저버(Observer) 패턴
 
 상태(State) 패턴
+
+반복자(Iterator) 패턴
+
+### 구조 패턴
+어댑터(Adapter) 패턴 (https://turtledev.tistory.com/57)
+
+데코레이터(Decorator) 패턴
 
 프록시(Proxy) 패턴
 
@@ -32,4 +39,19 @@
 퍼사드(Facade) 패턴
 
 컴포지트(Composite) 패턴
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
